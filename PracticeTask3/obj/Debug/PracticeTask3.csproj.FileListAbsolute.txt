@@ -1,7 +1,0 @@
-C:\Users\Алексей\Desktop\уч практика\PracticeTask3\PracticeTask3\bin\Debug\PracticeTask3.exe.config
-C:\Users\Алексей\Desktop\уч практика\PracticeTask3\PracticeTask3\bin\Debug\PracticeTask3.exe
-C:\Users\Алексей\Desktop\уч практика\PracticeTask3\PracticeTask3\bin\Debug\PracticeTask3.pdb
-C:\Users\Алексей\Desktop\уч практика\PracticeTask3\PracticeTask3\obj\Debug\PracticeTask3.csprojResolveAssemblyReference.cache
-C:\Users\Алексей\Desktop\уч практика\PracticeTask3\PracticeTask3\obj\Debug\PracticeTask3.csproj.CoreCompileInputs.cache
-C:\Users\Алексей\Desktop\уч практика\PracticeTask3\PracticeTask3\obj\Debug\PracticeTask3.exe
-C:\Users\Алексей\Desktop\уч практика\PracticeTask3\PracticeTask3\obj\Debug\PracticeTask3.pdb
